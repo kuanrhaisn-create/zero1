@@ -1,0 +1,6 @@
+NODE_ENV=production
+FRONTEND_ORIGIN=https://minichet.cyou
+ADMIN_SECRET=rakibaaadmin2025
+JWT_SECRET=chet_super_secret_2026
+TURSO_DB_URL=
+TURSO_AUTH_TOKEN=
